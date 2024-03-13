@@ -1,0 +1,9 @@
+{
+
+    "maxPriceUsd":"100",
+    "minPriceUsd":"20",
+
+    "dummyAccount":{
+        "buffCookie":""
+    }
+}
